@@ -4,5 +4,13 @@
   "description": "feel better",
   "main": "index.js",
   "author": "ag_dubs <ashley666ashley@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeTogether/warmfuzzies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NodeTogether/warmfuzzies/issues"
+  },
+  "homepage": "https://github.com/NodeTogether/warmfuzzies#readme"
 }
